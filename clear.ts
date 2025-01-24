@@ -5,7 +5,7 @@ import { warehouse as WarehouseModel } from "./schema";
 import { product as ProductModel } from "./schema";
 import { order as OrderModel } from "./schema";
 
-await mongoose.connect('mongodb+srv://hugo:95DpDWfXB9Kwr9rh@cluster0.6aom8.mongodb.net/Logistik?retryWrites=true&w=majority&appName=Cluster0');
+await mongoose.connect('PRIVATE');
 
 const app = new Elysia();
 
