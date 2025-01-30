@@ -1,5 +1,7 @@
 # Logistik
 
+## This project is a logistic program that has a database connected with info of warehouse, products, workers and what orders exist. What times the workers work.
+
 To install dependencies:
 
 ```bash
